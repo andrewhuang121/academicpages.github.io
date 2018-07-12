@@ -11,49 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Computer Science, **Stanford University**, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Summer 2018**, Quantitative Intern at **Epoch Investments** (New York, NY)
+  * Developing natural language models to extract information from quarterly/annual filings
+  * Visualizing linguistic features to aid analysts in triaging companies
+  * Building neural networks to summarize/analyze conference calls with brokers
+  
+* **Winter 2018 - Current**, Research Assistant in **Stanford Machine Learning Group** (Stanford, CA)
+  * Built models to predict heterogenous treatment effects in patients with hypertension
+  * Built models to predict abnormalities from bone scans in nuclear medicine
+  * Built models for detecting pulmonary embolism from chest CT data
+  * Deploying radiology models in hospitals and running clinical validation
+  
+* **Summer 2017,** Software Development Intern at **Northrop Grumman** (Herndon, VA)
+  * Worked on a military financial management system in Java, developing both front-end and back-end
+  * Implemented a flexible system for loading document fields
+  
+* **Summer 2015,** Research Fellow at **National Institutes of Health** (Bethesda Maryland)
+  * Studied a novel ERAD pathway, contributing to a paper that was eventually published in [*Nature Cell Biology*](https://www.ncbi.nlm.nih.gov/pubmed/27295555)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Coming soon!
+
+
+
