@@ -64,7 +64,7 @@ Things I've Read/Am Reading
 
 **_[Requiem](http://nassauweekly.com/requiem/)_** Kinda old, but remains to this day one of my favorite things I've ever read!
 
-**_[Countdown Regression: Sharp and Calibrated Survival Predictions](https://arxiv.org/abs/1806.08324)_** - Awesome work from two people that inspire my every day, Tony and Anand. Upending MLE!
+**_[Countdown Regression: Sharp and Calibrated Survival Predictions](https://arxiv.org/abs/1806.08324)_** - Awesome work in time-to-event prediction from two people that inspire me every day, Tony and Anand.
 
 **_[A Unified Approach to Interpreting Model Predictions](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions)_** - Interpretability for tree ensembles! And anything else!
 
