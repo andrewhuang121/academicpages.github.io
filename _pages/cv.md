@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, **Stanford University**, 2020 (expected)
+![alt text](https://github.com/andrewhuang121/andrewhuang121.github.io/blob/master/images/stanford.png)* B.S. in Computer Science, **Stanford University**, 2020 (expected)
 
 Work experience
 ======
