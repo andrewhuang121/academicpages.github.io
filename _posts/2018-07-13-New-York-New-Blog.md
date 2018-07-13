@@ -20,7 +20,7 @@ My life is pretty calm right now (hence the time to whip up this shit), so there
 
 * Skinny Pop is maybe the best snack ever. My internship has a fucking truckload of it. It's delicious, light but kind of filling, and doesn't make you hate yourself (we have slim-jims for that). What more can you ask for?
 
-* The New York Subway puts DC Metro to shame. It's SO much cheaper and well-distributed. Also, speaking of transit, I haven't used Uber in like a year 'cause I had a real shit rider rating (aside: I didn't even like puke in the backseat, I just straight up didn't talk and racked up a lot of 4 star ratings for that. In New York it's been climbing) so I ended up getting like a 40% off discount for a week so I was zipping around Manhattan for like 2 bucks a pop. It was fantastic. Lesson learned: alternate like every 6 months between Uber and Lyft and rope in the benefits.
+* The New York Subway puts DC Metro to shame. It's SO much cheaper and well-distributed. Also, speaking of transit, I haven't used Uber in like a year 'cause I had a real shit rider rating (aside: I didn't even like puke in the backseat, I just straight up didn't talk and racked up a lot of 4 star ratings for that. In New York it's been climbing) so I ended up getting like a 40% off discount for a week so I was zipping around Manhattan for like 2 bucks a pop. It was fantastic. Lesson learned: alternate like every 6 months between Uber and Lyft and reap the benefits.
 
 * Twitter is the best. I would pay for that shit. It's so fucking funny and actually just like a great news source; I end up reading a lot of research articles and reading cool weird longform journalism pieces.
 
