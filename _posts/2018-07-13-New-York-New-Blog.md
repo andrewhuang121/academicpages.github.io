@@ -60,9 +60,9 @@ Things I've Read/Am Reading
 
 **_[My Addicted Son](https://www.nytimes.com/2005/02/06/magazine/my-addicted-son.html)_** - Heart-wrenching shit. Read it after watching the trailer for Beautiful Boy.
 
-**_[Bo Burnham's Age of Anxiety](https://www.newyorker.com/magazine/2018/07/02/bo-burnhams-age-of-anxiety)_** I would die for Bo Burnham.
+**_[Bo Burnham's Age of Anxiety](https://www.newyorker.com/magazine/2018/07/02/bo-burnhams-age-of-anxiety)_** - I would die for Bo Burnham.
 
-**_[Requiem](http://nassauweekly.com/requiem/)_** Kinda old, but remains to this day one of my favorite things I've ever read!
+**_[Requiem](http://nassauweekly.com/requiem/)_** - Kinda old, but remains to this day one of my favorite things I've ever read!
 
 **_[Countdown Regression: Sharp and Calibrated Survival Predictions](https://arxiv.org/abs/1806.08324)_** - Awesome work in time-to-event prediction from two people that inspire me every day, Tony and Anand.
 
