@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-![alt text](https://github.com/andrewhuang121/andrewhuang121.github.io/blob/master/images/stanford.png)* B.S. in Computer Science, **Stanford University**, 2020 (expected)
+* B.S. in Computer Science, **Stanford University**, 2020 (expected)
 
 Work experience
 ======
@@ -44,7 +44,11 @@ Coming soon!
 Coursework
 ======
 
-Coming soon!
+* CS229 (Machine Learning)
+* CS224N (Natural Language Processing with Deep Learning)
+* CS110 (Principles of Computer Systems)
+* MATH104 (Applied Matrix Theory)
+* BIO82 (Genetics)
 
 
 
