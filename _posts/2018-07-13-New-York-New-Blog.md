@@ -24,6 +24,8 @@ My life is pretty calm right now (hence the time to whip up this shit), so there
 
 * Twitter is the best. I would pay for that shit. It's so fucking funny and actually just like a great news source; I end up reading a lot of research articles and reading cool weird longform journalism pieces.
 
+* I want to get a tattoo! I have some ideas for what I want and where to put it. It'll probably be a giant one on my face that says "Arrillaga Chicken Ruined My Life."
+
 * I don't know how often I'm gonna do this, especially when school starts back up, but hopefully fairly often! In a lot of my technical-heavy quarters I feel like not clever and like I feel my personality get duller and duller.
 
 Here's a bunch of stuff I've consumed and enjoyed recently!!!
