@@ -1,18 +1,21 @@
 ---
-title: 'New York, New BLOG'
-date: 2018-07-29
+title: 'Milk and Honey, or Silk and Money?'
+date: 2018-07-30
 permalink: /posts/2018/07/A-Thorough-Statistic-About-Nothing/
 tags:
   - personal
 ---
 
-It begins at a Lululemon. I'm walking in New York with two of my favorite people on earth, DJ Jayachandran and Han Gu. We've just entered a queue for a table at a restaurant that we will spend the next two hours waiting for. For context: I am dressed in a tech t-shirt, the same shorts that I wore the day before (and the day before that, and maybe the day before that), since the next day is laundry day and I'm down to that part of your closet where you sigh and think about if there's anything in the laundry basket that won't smell before you put it on. 
+For past month and a half, I've been working at an asset management fund (my finance friends tell me to call it a hedge fund for the CLOUT but I couldn't tell you the difference). It's been a lot of fun! I like my coworkers, there's snacks, we get lunch ordered in, the offices all have a great view of the city, and they're giving me projects where I get to learn a little bit about infance, but the problems I'm solving are almost entirely based on things that I know/things that are pretty likely to be useful for what I might want to do in the future.
 
-DJ is raving about their shorts, which sport revolutionary ABC (anti-ball crushing) technology. "It's a fucking game changer. I can't go back." (Disclaimer: crushed balls have never really been a problem for me, so I can't *really* speak to whether or not it is a game changer.) We get to the store (after first wandering into the women's store across the street. Good on the employees for not pointing out the mistake away! New York is #woke) Turns out these fuckers are like basically the same as the Nike running shorts you go commando in that I love so dearly... but at a price point of $70. 
+I'll be honest, coming into the summer, I abhorred the financial industry. I think it's incredibly necessary; companies need to get funded, people need to be able to take out loans. My major qualms about it were drawn mostly from *The Big Short* (a fantastic movie that made me want to throw things and kill the first banking boi I saw) and my ANGEL of a roommate Nicholas "Nickypoo" Branigan, who is the rarest of all animals: a non-finance Econ major. The problems are interesting, but as Nickypoo put it: "Yeah, but should the smartest fucking people we know be making powerpoint slides day?" To top it off, I can be the first person to tell you that the math that they use is from the 1800's and mfing ridge regression/L2-regularization/"let's make the numbers in our model small so they can't get TOO wild" is groundbreaking shit. 
 
-Naturally, Han and I roasted him, but then, as DJ is want to due, said something deeply profound and unforgettable.
+However, the money is ridiculous. And I like to eat well. 
 
-> Yo, at some point you gotta stop going for bang per buck, and just go for bang.
+
+
+
+
 
 
 
