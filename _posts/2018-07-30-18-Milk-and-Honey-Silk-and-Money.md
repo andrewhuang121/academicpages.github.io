@@ -12,7 +12,7 @@ I'll be honest, coming into the summer, I abhorred the financial industry. I thi
 
 However, the money is ridiculous. And I like to eat well. 
 
-![the eternal struggle](https://github.com/andrewhuang121/andrewhuang121.github.io/blob/andrewhuang121-patch-1/images/Screen%20Shot%202018-07-30%20at%2012.56.28%20AM.png)
+![the eternal struggle](https://pbs.twimg.com/media/DjU_sd3X4AArUJq.jpg:large)
 
 I've been thinking about this for a while: how much money do you need? Ultimately, I think money is a proxy for some degree of agency, which is (to put it extremely tackily) the objective function that we're optimizing for. If you accept (and if you're roommates with Nickypoo, you almost certainly will accept) that the upper bound on our agency is much, much lower than we've been taught, coupled with the fact that there tends to be a HUGE marginal cost for increases in capital, ADDITIONALLY coupled with the fact that as an educated American with a Chinese face, if you move to China you can essentially make money appear out of thin air... I don't think I'll become a banking boi. 
 
