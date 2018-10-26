@@ -40,6 +40,25 @@ Arrillaga Dining - It's actually like okay now? The meat is still dry but things
 
 ## Things I've Read
 
+*Sour Heart*, Jenny Zhang - Finally finished! It's sooooooo good. Gorgeously written and refreshingly different content.
+
+*Stephen Florida*, Gabe Habash - A writer that knows nothing about wrestling writes a book about an angsty wrestler! dank as shit
+
+*Conference Room, Five Minutes*, Shea Serrano - Shea Serrano writing about The Office? Take my money! (and he did)
+
+*We Gon' Be Alright*, Jeff Chang - I loved taking his class, and it's such a smart book on the current cultural climate.
+
+[The Cool Kid's Philosopher](https://static.currentaffairs.org/2017/12/the-cool-kids-philosopher), Nathan J. Robinson - A skewering of Ben Shapiro... must I say more
+
+[Michael Wang Didn’t Get Into Harvard. He Thinks It’s Because He’s Asian.](https://www.buzzfeednews.com/article/estherwang/chinese-americans-harvard-affirmative-action-asian-americans?fbclid=IwAR2YKDhw8JUJ4UTaolZtN3_TiBTcZNmRZVwXcxRUsAu0UApjnkSBsP4-5Wo) - I think it was a really good take on the lawsuit! s/o Victoria for the link!!!!
+
+## Things I've Watched/Listened To
+
+*The Good Place* - I love this show so much! The premise is wonky and it's run by Michael Schur (showrunner for Parks and Rec and The Office) starring Ted Danson and Kristen Bell! It starts slowly but gets SO GOOD and continues its momentum like second half of first season all the way into the ongoing third season.
+
+*BoJack Horseman* - It's so good. Brutal, sharp critiques/takes on current affairs and celebrity culture. 
+
+*How to Be a Human Being*, Glass Animals - They came last year but I was slaving away in 110 :( Listened through the album for the first time, and it's dank as shit!
 
 
 
