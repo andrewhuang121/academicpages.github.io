@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'A quick update'
 date: 2018-10-26
 permalink: /posts/2018/10/a-quick-update/
 tags:
