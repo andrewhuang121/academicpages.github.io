@@ -6,8 +6,6 @@ tags:
   - personal
 ---
 
-# A quick update
-
 Back at school! I love fall in California; every day is shorts weather but you can wear pants and not burn up. I'm taking mostly project-based classes now, and I'm excited to see how they turn out! 
 
 I was gonna take this like statistical learning theory class but it turns out the professor changed and on the first day I realized I went from having all the prereqs to half of them!!! All the dick-swinging and self-validation in the WORLD is not worth the time I would've had to spend bootstrapping and self-teaching. It was also being taught by a new professor who's like clearly a genius but got caught up in a lot of algebra and then would have to rush to finish the proof in time and like skip over something important; basically I could understand proofs for the most part form step-to-step but then he would make some kind of tautological argument in order to wrap things up and I'd be fuckin LOST. The content of the class was super interesting but you can't chase statistical bounds with short legs!!!
