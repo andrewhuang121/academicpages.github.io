@@ -1,7 +1,7 @@
 ---
 title: 'Decisions, Decisions'
 date: 2019-07-10
-permalink: /posts/2018/07/New-York-New-Blog/
+permalink: /posts/2019/07/Decisions-Decisions/
 tags:
   - personal
   - research
