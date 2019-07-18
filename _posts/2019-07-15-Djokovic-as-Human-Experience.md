@@ -30,7 +30,7 @@ When I was watching the Australian Open Final with Erik and Ani, watching them g
 
 That's the key, isn't it?
 
-# Thoughts
+### Thoughts
 
 okay this one was super hard to write. I wanted to not write about Italy but I think I will at some point. I think tennis is a really beautiful spectator sport and is generally fun to write about, and the donkey cheese thing is like one of my favorite bits of trivia ever. I thought it would be interesting to write more about people who succeed despite having super relatable issues (not like Donald Trump or Michael Jordan, who are textbook examples of bad people doing super well in America and whose character flaws are thankfully not super widespread in the population). I've been reading a lot of good tennis writing (DFW, Brian Phillips, Louisa Thomas, Chris Almeida), and I've tried to pick up on some of the things I liked. In terms of shelf life, I'm hoping I won't hate this after three months, but you never know! I'm trying to cut down on philosophizing (or however you spell that LOL can't believe they put my dumb ass on a spell checking team at Facebook) cause I always end up sounding like some dumb child philosopher, and try to focus more on concrete things. I think I wanna write more anecdotal/reflective stuff, but honestly my life isn't interesting enough to do that super frequently. I've always said my dream job is like that deal that some people have with the New Yorker where you kind of just like write two good things a  week with few strings attached, but honestly that shit sounds so hard... content is tough. I'll probably talk either about Italy or Seattle in my next one? toodles 
 
