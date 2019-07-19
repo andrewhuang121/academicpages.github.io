@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "What keeps you up at night?"
+permalink: /what-keeps-you-up-at-night/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
