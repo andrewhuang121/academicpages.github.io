@@ -36,6 +36,10 @@ Like the whole privacy/"if the product's FREE, YOU'RE THE PRODUCT!!!"/"would you
 
 At this point I still don't know and I'm too scared to google it
 
+### If I were in Ancient Greece, could I have done all that? Pythagorean theorem? ASA for parallel lines?
+
+Vain question I guess but it's fun to think about it
+
 
 
 
