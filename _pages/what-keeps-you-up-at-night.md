@@ -8,6 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 I think it's cool to think about this; what are the big questions or concepts that you struggle to wrap your head around? I think this question and "when's the last time you cried?" are my favorite icebreakers, mainly because I hate meeting people and they scare off a lot of people but the people who answer tend to be ok
 
 ### Why can't neural networks do multiplication?
