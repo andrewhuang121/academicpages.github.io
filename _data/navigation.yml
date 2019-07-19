@@ -1,8 +1,8 @@
 # main links links
 main:
         
-  - title: "Blog Posts"
+  - title: "blog posts"
     url: /year-archive/
     
-  - title: "What keeps you up at night?"
+  - title: "what keeps you up at night?"
     url: /what-keeps-you-up-at-night/
