@@ -39,7 +39,8 @@ At this point I still don't know and I'm too scared to google it
 
 Vain question I guess but it's fun to think about it
 
+### [What do we do with the work of monstrous men?](https://www.theparisreview.org/blog/2017/11/20/art-monstrous-men/) 
 
-
+I've thought about this for a while and I don't think I have a good answer. The article linked also doesn't have a good answer and dances around it, but it's written beautifully. 
 
 
